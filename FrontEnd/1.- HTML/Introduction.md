@@ -41,8 +41,9 @@
 - Definition lists
 ~~~
 <dl>
+    <dt></dt>
     <dd></dd>
-    <dd></dd>
+    <dt></dt>
     <dd></dd>
 </dl>
 ~~~
