@@ -9,6 +9,7 @@ body{
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
     min-height: 100vh;
+    background-color: whitesmoke;
 }
 
 .container{
@@ -38,7 +39,7 @@ h3{
     font-size: 75px;
     margin: 0;
     letter-spacing: 10px;
-    color: skyblue;
+    color: lightsteelblue;
     animation: animate 2s linear infinite alternate;
 }
 
@@ -64,8 +65,8 @@ p{
 
 a{
     text-decoration: none;
-    background-color: lightskyblue;
-    color: black;
+    background-color: blue;
+    color: white;
     font-size: 15px;
     padding: 12px 14px;
     display: inline-block;
